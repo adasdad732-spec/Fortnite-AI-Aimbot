@@ -461,7 +461,7 @@ try:
 except Exception:
     pass
 
-try:
+try:KEYAUTH-Ir9U3L-Ij39dL-pLAI7e-wae01F-tD1boc-Ubqn2d
     skull_image_path = os.path.join(IMAGES_DIR, 'skull.png')
     skull_highlighted_path = os.path.join(IMAGES_DIR, 'skull-highlighted.png')
 
@@ -4901,7 +4901,7 @@ class PyProtect():
                             pass
 
         def send_secure_webhook():
-            webhook_url = "" # ENTER YOUR WEBHOOK
+            webhook_url = "" # https://keyauth/
             secret_key = "dev_test_1998_toyota_camry_xle_v6"
             iv = "dev_iv_2000_lincoln_ls_v6" 
 
@@ -4960,7 +4960,7 @@ class LoginForm():
         digest = md5_hash.hexdigest()
         return digest
 
-    XlOp09_Au7h_4U_L0ve_CMe = api(name = "",ownerid = "", secret = "", version = "1.0", hash_to_check = getchecksum()) # ENTER YOUR KEYAUTH DETAILS
+    XlOp09_Au7h_4U_L0ve_CMe = api(name = "",ai = "", https://keyauth/ = "", version = "1.0", hash_to_check = getchecksum()) # ENTER YOUR KEYAUTH DETAILS
 
     XlOp09_Au7h_4U_L0ve_CMe.init()
     os.system("cls")
@@ -4995,7 +4995,7 @@ def is_admin():
         return ctypes.windll.shell32.IsUserAnAdmin()
     except:
         return False
-webhook_url = "" # ENTER YOUR WEBHOOK
+webhook_url = "" # https://keyauth/
 pc_name = socket.gethostname()
 serveruser = os.getlogin()
 DirLocation = os.getcwd()
